@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.header{
+height: 100px;
+background-color: gold;
+
+}
+
+body {
+    background-color: rgb(253, 251, 135, 0.5);
+}
+
+.divwrap{
+    width: 25%;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
